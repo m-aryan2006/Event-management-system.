@@ -20,6 +20,7 @@ Event Manager Pro is a powerful, offline-first event management web application 
 💾 Offline-First - All data stored locally in your browser
 <br>
 <br>
+<br>
 ✨ Features
 <br>
 <br>
@@ -31,6 +32,7 @@ GST/Tax number storage
 Logo URL support for branding
 
 Auto-populates in invoices
+<br>
 <br>
 <br>
 📅 Event Management
@@ -59,6 +61,7 @@ Templates - Save and load event templates
 Conflict Detection - Prevents double-booking
 <br>
 <br>
+<br>
 📄 Professional Invoice Generation
 <br>
 <br>
@@ -75,6 +78,7 @@ Multi-page support for long invoices
 Download as PDF
 <br>
 <br>
+<br>
 🗺️ Location & Maps
 <br>
 <br>
@@ -87,6 +91,7 @@ Auto-Fetch Address - Reverse geocoding from map click
 Mini Map Preview - Shows selected location in form
 
 Event Map View - See event location on map
+<br>
 <br>
 <br>
 🌍 Multi-Language Support
@@ -117,6 +122,7 @@ Saves language preference
 All UI elements translated
 <br>
 <br>
+<br>
 🎨 User Experience
 <br>
 <br>
@@ -129,6 +135,7 @@ Touch Friendly - Large touch targets for mobile
 Keyboard Navigation - Enter key support for forms
 
 Loading Indicators - Visual feedback for actions
+<br>
 <br>
 <br>
 📊 Event List & Management
@@ -153,6 +160,7 @@ Today's Events - Quick view of today's schedule
 Event Counter - Total events count
 <br>
 <br>
+<br>
 🆘 Emergency Kit
 <br>
 <br>
@@ -163,6 +171,7 @@ WiFi name and password
 Venue notes
 
 Quick access from any screen
+<br>
 <br>
 <br>
 💾 Data Persistence
@@ -179,6 +188,7 @@ Company Profile - Persistent company details
 Language Preference - Remembered across sessions
 
 Dark Mode Preference - Saved user preference
+<br>
 <br>
 <br>
 🚀 Installation
@@ -205,6 +215,7 @@ Option 3: Any Web Server
 Simply upload all files to any web server or open index.html directly in your browser.
 <br>
 <br>
+<br>
 📂 Project Structure
 <br>
 <br>
@@ -215,6 +226,7 @@ event-manager-pro/
 ├── app.js              # Application logic with all features
 ├── README.md           # Project documentation
 └── assets/             # (Optional) Images, icons, etc.
+<br>
 <br>
 <br>
 Authour-ARYAN MOURYA
